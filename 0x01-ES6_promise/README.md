@@ -1,1 +1,2 @@
-Understanding promieses
+These are promises in javascript
+
